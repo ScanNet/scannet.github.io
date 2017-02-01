@@ -1,6 +1,6 @@
 # ScanNet
 ScanNet is an RGB-D video dataset containing 2.5 million views in more than 1500 scans, annotated with 3D camera poses, surface reconstructions, and instance-level semantic segmentations.
 
-![ScanNet](/annotations.png)
+![ScanNet](img/annotations.png)
 
 # Under construction
