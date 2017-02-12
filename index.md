@@ -1,5 +1,6 @@
 # ScanNet
-#### [Angela Dai](http://cs.stanford.edu/people/adai/), [Angel X. Chang](https://angelxuanchang.github.io), [Manolis Savva](https://msavva.github.io), [Maciej Halber](http://www.cs.princeton.edu/~mhalber/), [Thomas Funkhouser](http://www.cs.princeton.edu/~funk/), [Matthias Nießner](http://www.graphics.stanford.edu/~niessner/)
+
+**[Angela Dai](http://cs.stanford.edu/people/adai/), [Angel X. Chang](https://angelxuanchang.github.io), [Manolis Savva](https://msavva.github.io), [Maciej Halber](http://www.cs.princeton.edu/~mhalber/), [Thomas Funkhouser](http://www.cs.princeton.edu/~funk/), [Matthias Nießner](http://www.graphics.stanford.edu/~niessner/)**
 
 ScanNet is an RGB-D video dataset containing 2.5 million views in more than 1500 scans, annotated with 3D camera poses, surface reconstructions, and instance-level semantic segmentations.
 
