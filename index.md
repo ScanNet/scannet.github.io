@@ -17,7 +17,7 @@ We show that using this data helps achieve state-of-the-art performance on sever
 ## Code and Data:
 Please visit our main project repository for more information and access to code and data: [https://github.com/ScanNet/ScanNet](https://github.com/ScanNet/ScanNet)
 
-<img src="img/voxel-predictions.jpg" style="width:500px; display: block; margin-left: auto; margin-right: auto;"/>
+<img src="img/voxel-predictions.jpg" style="width:600px; display: block; margin-left: auto; margin-right: auto;"/>
 *Semantic voxel labeling of 3D scans in ScanNet using our 3D CNN architecture. Voxel colors indicate predicted or ground truth
 category.*
 
