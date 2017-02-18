@@ -30,7 +30,9 @@ If you use the ScanNet data or code please cite:
 ## Code and Data:
 Please visit our main project repository for more information and access to code and data: [https://github.com/ScanNet/ScanNet](https://github.com/ScanNet/ScanNet)
 
+<a href="img/voxel-predictions.jpg">
 <img src="img/voxel-predictions.jpg" style="width:600px; display: block; margin-left: auto; margin-right: auto;"/>
+</a>
 *Semantic voxel labeling of 3D scans in ScanNet using our 3D CNN architecture. Voxel colors indicate predicted or ground truth
 category.*
 
