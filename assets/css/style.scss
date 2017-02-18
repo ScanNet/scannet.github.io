@@ -3,6 +3,6 @@
 
 @import "{{ site.theme }}";
 
-h3 {
-  width: 800px !important;
+.inner {
+  max-width: 800px !important;
 }
