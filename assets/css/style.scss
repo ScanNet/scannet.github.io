@@ -2,3 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
+
+h4 {
+  max-width: 800px;
+}
