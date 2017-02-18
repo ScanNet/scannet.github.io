@@ -25,7 +25,7 @@ We show that using this data helps achieve state-of-the-art performance on sever
 More information can be found in our <a href="https://arxiv.org/abs/1702.04405">paper</a>.
 
 <a href="https://arxiv.org/abs/1702.04405">
-<img src="img/annotations.png" style="width:500px; display: block; margin-left: auto; margin-right: auto;"/>
+<img src="img/annotations.png" style="width:640px; display: block; margin-left: auto; margin-right: auto;"/>
 </a>
 
 If you use the ScanNet data or code please cite:
@@ -42,7 +42,7 @@ If you use the ScanNet data or code please cite:
 Please visit our main project repository for more information and access to code and data: [https://github.com/ScanNet/ScanNet](https://github.com/ScanNet/ScanNet)
 
 <a href="img/voxel-predictions.jpg">
-<img src="img/voxel-predictions.jpg" style="width:600px; display: block; margin-left: auto; margin-right: auto;"/>
+<img src="img/voxel-predictions.jpg" style="width:640px; display: block; margin-left: auto; margin-right: auto;"/>
 </a>
 *Semantic voxel labeling of 3D scans in ScanNet using our 3D CNN architecture. Voxel colors indicate predicted or ground truth
 category.*
