@@ -38,6 +38,9 @@ If you use the ScanNet data or code please cite:
 }
 ```
 
+## License
+The data is released under a <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 License</a>. 
+
 ## Code and Data:
 Please visit our main project repository for more information and access to code and data: [https://github.com/ScanNet/ScanNet](https://github.com/ScanNet/ScanNet)
 
