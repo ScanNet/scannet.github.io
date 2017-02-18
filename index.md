@@ -1,5 +1,16 @@
 [//]: # (# ScanNet: Richly-annotated 3D Reconstructions of Indoor Scenes)
 
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-77156287-3', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
 <h3 align="center">
 <a href="http://cs.stanford.edu/~adai/publications.html">Angela Dai</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://angelxuanchang.github.io">Angel X. Chang</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://msavva.github.io">Manolis Savva</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.cs.princeton.edu/~mhalber/">Maciej Halber</a><br><a href="http://www.cs.princeton.edu/~funk/">Thomas Funkhouser</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://graphics.stanford.edu/~niessner/publications.html">Matthias Nie&szlig;ner</a>
 </h3>
