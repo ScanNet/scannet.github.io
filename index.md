@@ -16,7 +16,7 @@
 </h3>
 
 <h4 align="center">
- Stanford University&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Princeton University&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Technical University of Munich
+ Stanford University&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Princeton University&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Technical University of Munich
 </h4>
 
 ScanNet is an RGB-D video dataset containing 2.5 million views in more than 1500 scans, annotated with 3D camera poses, surface reconstructions, and instance-level semantic segmentations.
