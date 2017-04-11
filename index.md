@@ -20,7 +20,7 @@
 </h4>
 
 <a href="http://www.youtube.com/watch?v=Olx4OnoZWQQ">
-<img src="img/vid.jpg" alt="ScanNet" align="center" style="width:400px;"/>
+<img src="img/vid.jpg" alt="ScanNet" style="width:400px; display: block; margin-left: auto; margin-right: auto;"/>
 </a>
 <br>
 
