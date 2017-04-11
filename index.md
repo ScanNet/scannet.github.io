@@ -19,6 +19,7 @@
  Stanford University&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Princeton University&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Technical University of Munich
 </h4>
 
+<br>
 <a href="http://www.youtube.com/watch?v=Olx4OnoZWQQ">
 <img src="img/vid.jpg" alt="ScanNet" style="width:400px; display: block; margin-left: auto; margin-right: auto;"/>
 </a>
