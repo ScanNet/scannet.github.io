@@ -19,6 +19,14 @@
  Stanford University&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Princeton University&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Technical University of Munich
 </h4>
 
+<br>
+        <div>
+		<iframe align="middle" id="ytplayer" type="text/html" width="420" height="315" src="http://www.youtube.com/embed/Olx4OnoZWQQ?autoplay=1" frameborder="0" allowfullscreen/>
+		 </iframe>
+		 <br>
+        </div>
+
+
 ScanNet is an RGB-D video dataset containing 2.5 million views in more than 1500 scans, annotated with 3D camera poses, surface reconstructions, and instance-level semantic segmentations.
 To collect this data, we designed an easy-to-use and scalable RGB-D capture system that includes automated surface reconstruction and crowdsourced semantic annotation. 
 We show that using this data helps achieve state-of-the-art performance on several 3D scene understanding tasks, including 3D object classification, semantic voxel labeling, and CAD model retrieval.
