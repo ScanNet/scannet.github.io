@@ -19,8 +19,10 @@
  Stanford University&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Princeton University&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Technical University of Munich
 </h4>
 
-[![ScanNet](http://img.youtube.com/vi/Olx4OnoZWQQ/0.jpg)](http://www.youtube.com/watch?v=Olx4OnoZWQQ "ScanNet: Richly-annotated 3D Reconstructions of Indoor Scenes (CVPR 2017 Spotlight)")
-
+<a href="http://www.youtube.com/watch?v=Olx4OnoZWQQ">
+<img src="img/vid.jpg" alt="ScanNet" align="center" style="width:400px;"/>
+</a>
+<br>
 
 ScanNet is an RGB-D video dataset containing 2.5 million views in more than 1500 scans, annotated with 3D camera poses, surface reconstructions, and instance-level semantic segmentations.
 To collect this data, we designed an easy-to-use and scalable RGB-D capture system that includes automated surface reconstruction and crowdsourced semantic annotation. 
