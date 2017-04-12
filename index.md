@@ -36,7 +36,7 @@ More information can be found in our <a href="https://arxiv.org/abs/1702.04405">
 
 If you use the ScanNet data or code please cite:
 ```
-@inproceedings{dai2017scannet,
+@article{dai2017scannet,
     title={ScanNet: Richly-annotated 3D Reconstructions of Indoor Scenes},
     author={Dai, Angela and Chang, Angel X. and Savva, Manolis and Halber, Maciej and Funkhouser, Thomas and Nie{\ss}ner, Matthias},
     booktitle = {Proc. Computer Vision and Pattern Recognition (CVPR), IEEE},
