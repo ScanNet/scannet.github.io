@@ -43,6 +43,8 @@ If you use the ScanNet data or code please cite:
     year = {2017}
 }
 ```
+## License
+The ScanNet data is released under the [ScanNet Terms of Use](http://dovahkiin.stanford.edu/scannet-public/ScanNet_TOS.pdf), and the code is released under the MIT license.
 
 ## Code and Data:
 Please visit our main project repository for more information and access to code, data, and trained models: [https://github.com/ScanNet/ScanNet](https://github.com/ScanNet/ScanNet)
@@ -55,4 +57,4 @@ category.*
 
 <br>
 ---
-Last updated: 2017-02-17
+Last updated: 2017-05-02
