@@ -4,14 +4,13 @@
 @import "{{ site.theme }}";
 
 .inner {
-  max-width: 800px !important;
+  max-width: 1200px !important;
 }
 
 .banner_block {
 	display: block;
 	position: absolute;
 	top: 0;
-	right: 10px;
 	z-index: 10;
 	padding: 10px 50px 10px 10px;
 	color: #fff;
