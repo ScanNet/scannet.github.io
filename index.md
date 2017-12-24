@@ -12,6 +12,7 @@
 </script>
 
 <h3 align="center">
+ScanNet: Richly-annotated 3D Reconstructions of Indoor Scenes<br><br>
 <a href="http://cs.stanford.edu/~adai/publications.html">Angela&nbsp;Dai</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://angelxuanchang.github.io">Angel&nbsp;X.&nbsp;Chang</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://msavva.github.io">Manolis&nbsp;Savva</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.cs.princeton.edu/~mhalber/">Maciej&nbsp;Halber</a><br><a href="http://www.cs.princeton.edu/~funk/">Thomas&nbsp;Funkhouser</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://graphics.stanford.edu/~niessner/publications.html">Matthias&nbsp;Nie&szlig;ner</a>
 </h3>
 
