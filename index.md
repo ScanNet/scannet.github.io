@@ -55,6 +55,13 @@ Please visit our main project repository for more information and access to code
 *Semantic voxel labeling of 3D scans in ScanNet using our 3D CNN architecture. Voxel colors indicate predicted or ground truth
 category.*
 
+## Acknowledgments
+The ScanNet project is funded by Google Tango, Intel, NSF (IIS-1251217 and VEC 1539014/1539099), and a Stanford Graduate fellowship. We also thank Occipital for donating structure sensors and Nvidia for hardware donations, as well as support by the Max-Planck Center for Visual Computing and the Stanford CURIS program.
+
+Toan Vuong, Joseph Chang, and Helen Jiang helped develop the mobile scanning app, and Hope Casey-Allen and Duc Nugyen developed early prototypes of the annotation interfaces.
+We thank Alex Sabia for scanning and verifying annotations, and Halle Pollack, Julian Massarani and Michael Fang fo checking annotations.
+Last but not least, we would like to thank all the other volunteers who helped with scanning and getting us access to scanning spaces, as well as all the AMT workers who annotated and gave us feedback on the interface design.
+
 <br>
 ---
-Last updated: 2017-05-02
+Last updated: 2017-12-23
