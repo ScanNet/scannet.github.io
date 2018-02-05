@@ -31,6 +31,9 @@ To collect this data, we designed an easy-to-use and scalable RGB-D capture syst
 We show that using this data helps achieve state-of-the-art performance on several 3D scene understanding tasks, including 3D object classification, semantic voxel labeling, and CAD model retrieval.
 More information can be found in our <a href="https://arxiv.org/abs/1702.04405">paper</a>.
 
+<a href="http://www.robustvision.net"><center>
+<img src="http://www.robustvision.net/images/banner.png" /></center></a>
+
 <a href="https://arxiv.org/abs/1702.04405">
 <img src="img/annotations.png" style="width:640px; display: block; margin-left: auto; margin-right: auto;"/>
 </a>
