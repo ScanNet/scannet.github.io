@@ -49,11 +49,18 @@ If you use the ScanNet data or code please cite:
 ```
 
 ## News
+- *2018-02-11* : Browsing interface available.
+- *2018-02-04* : We are part of the [Robust Vision Challenge 2018 Workshop](http://www.robustvision.net/) at [CVPR 2018](http://cvpr2018.thecvf.com/) in Salt Lake City.  Participate to test out your algorithms and win prizes!
 - *2017-09-30* : Data server code released
 - *2017-02-01* : ScanNet initial release
 
 ## License
 The ScanNet data is released under the [ScanNet Terms of Use](http://dovahkiin.stanford.edu/scannet-public/ScanNet_TOS.pdf), and the code is released under the MIT license.
+
+## Browse
+The ScanNet data can be browsed online.
+- [Query scans](https://dovahkiin.stanford.edu/scannet-browse/scans/scannet/querier)
+- [Browse scans](https://dovahkiin.stanford.edu/scannet-browse/scans/scannet/grouped) grouped by scene type
 
 ## Code and Data
 Please visit our main project repository for more information and access to code, data, and trained models: [https://github.com/ScanNet/ScanNet](https://github.com/ScanNet/ScanNet)
@@ -73,4 +80,4 @@ Last but not least, we would like to thank all the other volunteers who helped w
 
 <br>
 ---
-Last updated: 2017-12-23
+Last updated: 2018-02-11
