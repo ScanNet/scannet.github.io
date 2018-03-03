@@ -33,6 +33,7 @@ More information can be found in our <a href="https://arxiv.org/abs/1702.04405">
 
 <a href="http://www.robustvision.net"><center>
 <img src="http://www.robustvision.net/images/banner.png" /></center></a>
+<center>Submit <a href="http://dovahkiin.stanford.edu/adai/">here</a>!</center>
 
 <a href="https://arxiv.org/abs/1702.04405">
 <img src="img/annotations.png" style="width:640px; display: block; margin-left: auto; margin-right: auto;"/>
