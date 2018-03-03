@@ -24,7 +24,6 @@ ScanNet: Richly-annotated 3D Reconstructions of Indoor Scenes<br><br>
 <a href="http://www.youtube.com/watch?v=Olx4OnoZWQQ">
 <img src="img/vid.jpg" alt="ScanNet" style="width:400px; display: block; margin-left: auto; margin-right: auto;"/>
 </a>
-<br>
 
 ScanNet is an RGB-D video dataset containing 2.5 million views in more than 1500 scans, annotated with 3D camera poses, surface reconstructions, and instance-level semantic segmentations.
 To collect this data, we designed an easy-to-use and scalable RGB-D capture system that includes automated surface reconstruction and crowdsourced semantic annotation. 
