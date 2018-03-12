@@ -11,7 +11,7 @@
 
 </script>
 
-<h3 id="introduction" align="center">
+<h3 align="center">
 ScanNet: Richly-annotated 3D Reconstructions of Indoor Scenes<br><br>
 <a href="http://cs.stanford.edu/~adai/publications.html">Angela&nbsp;Dai</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://angelxuanchang.github.io">Angel&nbsp;X.&nbsp;Chang</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://msavva.github.io">Manolis&nbsp;Savva</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.cs.princeton.edu/~mhalber/">Maciej&nbsp;Halber</a><br><a href="http://www.cs.princeton.edu/~funk/">Thomas&nbsp;Funkhouser</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://graphics.stanford.edu/~niessner/publications.html">Matthias&nbsp;Nie&szlig;ner</a>
 </h3>
@@ -25,14 +25,21 @@ ScanNet: Richly-annotated 3D Reconstructions of Indoor Scenes<br><br>
 <img src="img/vid.jpg" alt="ScanNet" style="width:400px; display: block; margin-left: auto; margin-right: auto;"/>
 </a>
 
-ScanNet is an RGB-D video dataset containing 2.5 million views in more than 1500 scans, annotated with 3D camera poses, surface reconstructions, and instance-level semantic segmentations.
-To collect this data, we designed an easy-to-use and scalable RGB-D capture system that includes automated surface reconstruction and crowdsourced semantic annotation. 
-We show that using this data helps achieve state-of-the-art performance on several 3D scene understanding tasks, including 3D object classification, semantic voxel labeling, and CAD model retrieval.
-More information can be found in our <a href="https://arxiv.org/abs/1702.04405">paper</a>.
+## News
+- *2018-02-11* : Browsing interface available.
+- *2018-02-04* : We are part of the [Robust Vision Challenge 2018 Workshop](http://www.robustvision.net/) at [CVPR 2018](http://cvpr2018.thecvf.com/) in Salt Lake City.  Participate to test out your algorithms and win prizes!
+- *2017-09-30* : Data server code released
+- *2017-02-01* : ScanNet initial release
 
 <a href="http://www.robustvision.net"><center>
 <img src="http://www.robustvision.net/images/banner.png" /></center></a>
 <center>Submit to the Robust Vision Challenge <a href="http://dovahkiin.stanford.edu/adai/">here</a>!</center>
+
+## Introduction
+ScanNet is an RGB-D video dataset containing 2.5 million views in more than 1500 scans, annotated with 3D camera poses, surface reconstructions, and instance-level semantic segmentations.
+To collect this data, we designed an easy-to-use and scalable RGB-D capture system that includes automated surface reconstruction and crowdsourced semantic annotation.
+We show that using this data helps achieve state-of-the-art performance on several 3D scene understanding tasks, including 3D object classification, semantic voxel labeling, and CAD model retrieval.
+More information can be found in our <a href="https://arxiv.org/abs/1702.04405">paper</a>.
 
 <br><br>
 <a href="https://arxiv.org/abs/1702.04405">
@@ -48,12 +55,6 @@ If you use the ScanNet data or code please cite:
     year = {2017}
 }
 ```
-
-## News
-- *2018-02-11* : Browsing interface available.
-- *2018-02-04* : We are part of the [Robust Vision Challenge 2018 Workshop](http://www.robustvision.net/) at [CVPR 2018](http://cvpr2018.thecvf.com/) in Salt Lake City.  Participate to test out your algorithms and win prizes!
-- *2017-09-30* : Data server code released
-- *2017-02-01* : ScanNet initial release
 
 ## License
 The ScanNet data is released under the [ScanNet Terms of Use](http://dovahkiin.stanford.edu/scannet-public/ScanNet_TOS.pdf), and the code is released under the MIT license.
