@@ -7,7 +7,7 @@
 - *New semantic label and instance annotations* : Updated annotations for all 1513 original ScanNet scans, with **approx 90% vs previous 63%** surface coverage. Segments that have been annotated as `remove` are removed from the reconstructed meshes. 
 See a colored legend for all nyu40 labels [here](http://kaldir.vc.in.tum.de/scannet_benchmark/img/legend.jpg).
 Includes updated files for:
-```shell
+```
 <scanId>
 |-- <scanId>_vh_clean.ply
     (Updated if had remove annotations)
@@ -26,6 +26,7 @@ Includes updated files for:
 |-- <scanId>_2d-instance-filt.zip
     Updated filtered 2d projections of aggregated annotation instances as 8-bit pngs
 ```
+
 - *New scene type annotations* : for all 1513 original ScanNet scans, as `sceneType` in the `<scanId>.txt` info file for each scan. All new scene types and label ids are listed [here](http://kaldir.vc.in.tum.de/scannet_benchmark/scene_types_all.txt).
 - *New axis alignments* : for all 1513 original ScanNet scans, as `axisAlignment` in the `<scanId>.txt` info file (a 4x4 matrix encoding the rigid transform to axis alignment for the scan, as 16 values in row-major order).
 - *Visualization of v2 annotations vs v1 annotations* : 
