@@ -26,8 +26,8 @@ ScanNet: Richly-annotated 3D Reconstructions of Indoor Scenes<br><br>
 </a>
 
 ## News
-- *2018-11-06* : **[ScanNet v2 release](changelog#scannet-v2-2018-06-11)**.
-- *2018-11-06* : **[ScanNet Benchmark Challenge](http://kaldir.vc.in.tum.de/scannet_benchmark) available**.
+- *2018-06-11* : **[ScanNet v2 release](changelog#scannet-v2-2018-06-11)**.
+- *2018-06-11* : **[ScanNet Benchmark Challenge](http://kaldir.vc.in.tum.de/scannet_benchmark) available**.
 - *2018-02-11* : Browsing interface available.
 - *2018-02-04* : We are part of the [Robust Vision Challenge 2018 Workshop](http://www.robustvision.net/) at [CVPR 2018](http://cvpr2018.thecvf.com/) in Salt Lake City.  Participate to test out your algorithms and win prizes!
 - *2017-09-30* : Data server code released
