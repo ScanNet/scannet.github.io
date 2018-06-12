@@ -63,7 +63,7 @@ If you use the ScanNet data or code please cite:
 ```
 
 ## ChangeLog
-See detailed changelog [here](changelog)
+See detailed changelog [here](changelog).
 - *2018-11-06* : **[ScanNet v2 release](changelog#scannet-v2-2018-06-11)**.
 
 ## License
