@@ -1,3 +1,6 @@
+---
+layout: "changelog_layout"
+---
 
 # ScanNet Changelog
 
