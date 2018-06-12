@@ -26,14 +26,20 @@ ScanNet: Richly-annotated 3D Reconstructions of Indoor Scenes<br><br>
 </a>
 
 ## News
+- *2018-11-06* : **[ScanNet v2 release](changelog)**.
+- *2018-11-06* : **[ScanNet Benchmark Challenge](http://kaldir.vc.in.tum.de/scannet_benchmark) available**.
 - *2018-02-11* : Browsing interface available.
 - *2018-02-04* : We are part of the [Robust Vision Challenge 2018 Workshop](http://www.robustvision.net/) at [CVPR 2018](http://cvpr2018.thecvf.com/) in Salt Lake City.  Participate to test out your algorithms and win prizes!
 - *2017-09-30* : Data server code released
 - *2017-02-01* : ScanNet initial release
 
-<a href="http://www.robustvision.net"><center>
-<img src="http://www.robustvision.net/images/banner.png" /></center></a>
-<center>Submit to the Robust Vision Challenge <a href="http://dovahkiin.stanford.edu/adai/">here</a>!</center>
+<a href="http://kaldir.vc.in.tum.de/scannet_benchmark"><center>
+<img src="img/scannet_benchmark.jpg" /></center></a>
+<center>Submit to our new ScanNet Benchmark Challenge <a href="http://kaldir.vc.in.tum.de/scannet_benchmark">here</a>!</center>
+
+[//]: # (<a href="http://www.robustvision.net"><center>)
+[//]: # (<img src="http://www.robustvision.net/images/banner.png" /></center></a>)
+[//]: # (<center>Submit to the Robust Vision Challenge <a href="http://dovahkiin.stanford.edu/adai/">here</a>!</center>)
 
 ## Introduction
 ScanNet is an RGB-D video dataset containing 2.5 million views in more than 1500 scans, annotated with 3D camera poses, surface reconstructions, and instance-level semantic segmentations.
@@ -55,6 +61,10 @@ If you use the ScanNet data or code please cite:
     year = {2017}
 }
 ```
+
+## ChangeLog
+See detailed changelog [here](changelog)
+- *2018-11-06* : **[ScanNet v2 release](changelog#scannet-v2-2018-06-11)**.
 
 ## License
 The ScanNet data is released under the [ScanNet Terms of Use](http://dovahkiin.stanford.edu/scannet-public/ScanNet_TOS.pdf), and the code is released under the MIT license.
