@@ -4,7 +4,7 @@
 
 ## ScanNet v2 (2018-06-11):
 - *New 2D/3D benchmark challenge for ScanNet* : Our [ScanNet Benchmark](http://kaldir.vc.in.tum.de/scannet_benchmark) offers both 2D and 3D semantic label and instance prediction tasks, as well as a scene type classification task. 100 new scans are now part of the evaluation test set!
-- *New semantic label and instance annotations* : Updated annotations for all 1513 original ScanNet scans, with approx 90% surface coverage. Segments that have been annotated as `remove` are removed from the reconstructed meshes. 
+- *New semantic label and instance annotations* : Updated annotations for all 1513 original ScanNet scans, with **approx 90% vs previous 63%** surface coverage. Segments that have been annotated as `remove` are removed from the reconstructed meshes. 
 See a colored legend for all nyu40 labels [here](http://kaldir.vc.in.tum.de/scannet_benchmark/img/legend.jpg).
 Includes updated files for:
 ```shell
