@@ -80,8 +80,8 @@ Please visit our main project repository for more information and access to code
 <a href="img/voxel-predictions.jpg">
 <img src="img/voxel-predictions.jpg" style="width:640px; display: block; margin-left: auto; margin-right: auto;"/>
 </a>
-*Semantic voxel labeling of 3D scans in ScanNet using our 3D CNN architecture. Voxel colors indicate predicted or ground truth
-category.*
+<center><i>Semantic voxel labeling of 3D scans in ScanNet using our 3D CNN architecture. Voxel colors indicate predicted or ground truth
+category.</i></center>
 
 ## Acknowledgments
 The ScanNet project is funded by Google Tango, Intel, NSF (IIS-1251217 and VEC 1539014/1539099), and a Stanford Graduate fellowship. We also thank Occipital for donating structure sensors and Nvidia for hardware donations, as well as support by the Max-Planck Center for Visual Computing and the Stanford CURIS program.
