@@ -20,6 +20,10 @@ ScanNet: Richly-annotated 3D Reconstructions of Indoor Scenes<br><br>
  Stanford University&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Princeton University&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Technical University of Munich
 </h4>
 
+<a href="http://kaldir.vc.in.tum.de/scannet_benchmark"><center>
+<img src="img/scannet_benchmark.jpg" /></center></a>
+<center>Submit to our new ScanNet Benchmark Challenge <a href="http://kaldir.vc.in.tum.de/scannet_benchmark">here</a>!</center>
+
 <br>
 <a href="http://www.youtube.com/watch?v=Olx4OnoZWQQ">
 <img src="img/vid.jpg" alt="ScanNet" style="width:400px; display: block; margin-left: auto; margin-right: auto;"/>
@@ -32,10 +36,6 @@ ScanNet: Richly-annotated 3D Reconstructions of Indoor Scenes<br><br>
 - *2018-02-04* : We are part of the [Robust Vision Challenge 2018 Workshop](http://www.robustvision.net/) at [CVPR 2018](http://cvpr2018.thecvf.com/) in Salt Lake City.  Participate to test out your algorithms and win prizes!
 - *2017-09-30* : Data server code released
 - *2017-02-01* : ScanNet initial release
-
-<a href="http://kaldir.vc.in.tum.de/scannet_benchmark"><center>
-<img src="img/scannet_benchmark.jpg" /></center></a>
-<center>Submit to our new ScanNet Benchmark Challenge <a href="http://kaldir.vc.in.tum.de/scannet_benchmark">here</a>!</center>
 
 [//]: # (<a href="http://www.robustvision.net"><center>)
 [//]: # (<img src="http://www.robustvision.net/images/banner.png" /></center></a>)
