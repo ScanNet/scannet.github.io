@@ -4,6 +4,8 @@ layout: "changelog_layout"
 
 # ScanNet Changelog
 
+## ScanNet v2 instance/label images update fix (2018-09-02):
+- Provided 2D filtered instance and label images were updated with a bug fix affecting the [scans listed here](http://dovahkiin.stanford.edu/scannet-public/v2_scans_instance-label-images-updated.txt). 
 
 ## ScanNet v2 (2018-06-11):
 - *New 2D/3D benchmark challenge for ScanNet* : Our [ScanNet Benchmark](http://kaldir.vc.in.tum.de/scannet_benchmark) offers both 2D and 3D semantic label and instance prediction tasks, as well as a scene type classification task. 100 new scans are now part of the evaluation test set!
