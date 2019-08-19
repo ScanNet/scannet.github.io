@@ -71,8 +71,8 @@ The ScanNet data is released under the [ScanNet Terms of Use](http://dovahkiin.s
 
 ## Browse
 The ScanNet data can be browsed online.
-- [Query scans](https://dovahkiin.stanford.edu/scannet-browse/scans/scannet/querier)
-- [Browse scans](https://dovahkiin.stanford.edu/scannet-browse/scans/scannet/grouped) grouped by scene type
+- [Query scans](http://kaldir.vc.in.tum.de/scannet_browse/scans/scannet/querier)
+- [Browse scans](http://kaldir.vc.in.tum.de/scannet_browse/scans/scannet/grouped) grouped by scene type
 
 ## Code and Data
 Please visit our main project repository for more information and access to code, data, and trained models: [https://github.com/ScanNet/ScanNet](https://github.com/ScanNet/ScanNet)
