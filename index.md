@@ -67,7 +67,7 @@ See detailed changelog [here](changelog).
 - *2018-11-06* : **[ScanNet v2 release](changelog#scannet-v2-2018-06-11)**.
 
 ## License
-The ScanNet data is released under the [ScanNet Terms of Use](http://dovahkiin.stanford.edu/scannet-public/ScanNet_TOS.pdf), and the code is released under the MIT license.
+The ScanNet data is released under the [ScanNet Terms of Use](http://kaldir.vc.in.tum.de/scannet/ScanNet_TOS.pdf), and the code is released under the MIT license.
 
 ## Browse
 The ScanNet data can be browsed online.
